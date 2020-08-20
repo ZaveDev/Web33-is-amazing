@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-     <h1>🎅</h1>
+     <h1>¯\_(ツ)_/¯</h1>
     </main>
   );
 }
